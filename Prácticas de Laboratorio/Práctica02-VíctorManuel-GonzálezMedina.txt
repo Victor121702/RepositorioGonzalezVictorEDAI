@@ -1,0 +1,5 @@
+**Práctica 2 Estructuras de Datos y Algoritmos - Pilas**
+
+Clase síncrona para retomar actividades
+
+Al ser clase síncrona esta vez no se pidio actividad para entregar
