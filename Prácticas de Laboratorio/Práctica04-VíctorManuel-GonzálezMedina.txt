@@ -1,4 +1,4 @@
-**Práctica 04 Estructuras de Datos y Algoritmos - Aplicaciones de Pilas**
+**Práctica 04 Estructura de Datos y Algoritmos I - Aplicaciones de Pilas**
 
 Clase síncrona para revisar la notación polaca
 
