@@ -1,0 +1,5 @@
+**Práctica 05 Estructura de Datos y Algoritmos I - Introducción a Python**
+
+Clase síncrona para revisar la importancia de Python
+
+Al ser clase síncrona no se pidió actividad para entregar
