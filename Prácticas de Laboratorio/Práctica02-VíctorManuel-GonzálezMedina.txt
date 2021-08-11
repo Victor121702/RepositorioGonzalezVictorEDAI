@@ -1,4 +1,4 @@
-**Práctica 2 Estructuras de Datos y Algoritmos - Pilas**
+**Práctica 02  Estructura de Datos y Algoritmos I - Pilas**
 
 Clase síncrona para retomar actividades
 
